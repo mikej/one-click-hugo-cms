@@ -1,5 +1,5 @@
 ---
-title: Dan's test post
+title: Edited via a local branch
 date: 2019-07-24T09:53:59.564Z
 description: >-
   Lorem Ipsum is simply dummy text of the printing and typesetting industry.
